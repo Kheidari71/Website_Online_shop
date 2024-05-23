@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "shop website portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "kiana Heidari",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap-icons": "^1.11.3"
+  }
+}
